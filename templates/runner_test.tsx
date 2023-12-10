@@ -1,0 +1,1 @@
+const api: Api = { url: "" }
