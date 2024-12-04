@@ -1,0 +1,2 @@
+- [ ] Add more unit tests
+- [x] Initial setup
